@@ -1,0 +1,10 @@
+numpy
+pytube
+pydub
+faster-whisper
+googletrans==4.0.0-rc1
+nltk
+python-docx
+PyPDF2
+gensim
+tkinter
